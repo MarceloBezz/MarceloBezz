@@ -2,6 +2,9 @@
 Olá, me chamo Marcelo Bezerra🌹
 
 Estou cursando **Análise e Desenvolvimento de Sistemas** e sou formado como **técnico de informática**☀️
+Sou um desenvolvedor que está sempre buscando aprimorar meus conhecimentos
+e aprender coisas novas neste maravilhoso mundo da tecnologia ⭐
+
 
 ## Ferramentas e tecnologias
 <p>
