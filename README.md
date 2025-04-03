@@ -14,7 +14,8 @@ e aprender coisas novas neste maravilhoso mundo da tecnologia ⭐
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width=50; style="margin-right: 25px" title="Node.Js"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" width=50; style="margin-right: 25px" title="Nodemon"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width=50; style="margin-right: 25px" title="SQL" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"width=50; style="margin-right: 25px" title="C#"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width=50; style="margin-right: 25px" title="C#"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width=50; style="margin-right: 25px" title="Git" />
 </p>
 
 ## Contato
