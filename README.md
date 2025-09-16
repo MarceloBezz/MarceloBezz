@@ -1,6 +1,7 @@
 # Seja bem vindo ao meu portfólio! 
 Olá, me chamo Marcelo Bezerra🌹
 
+- Sou **estagiário** na Link do Brasil. Trabalho com desenvolvimento em **C#** e **VB.Net** 💻
 - Estou cursando **Análise e Desenvolvimento de Sistemas** e sou formado como **técnico de informática**☀️ <br>
 - Sou um desenvolvedor que está sempre buscando aprimorar meus conhecimentos
 e aprender coisas novas neste maravilhoso mundo da tecnologia ⭐
