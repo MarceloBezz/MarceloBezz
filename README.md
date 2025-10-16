@@ -1,11 +1,24 @@
-# Seja bem vindo ao meu portfólio! 
-Olá, me chamo Marcelo Bezerra🌹
+## Seja bem vindo ao meu portfólio!
 
-- Sou **estagiário** na Link do Brasil. Trabalho com desenvolvimento em **C#** e **VB.Net** 💻
-- Estou cursando **Análise e Desenvolvimento de Sistemas** e sou formado como **técnico de informática**☀️ <br>
-- Sou um desenvolvedor que está sempre buscando aprimorar meus conhecimentos
-e aprender coisas novas neste maravilhoso mundo da tecnologia ⭐
 
+<div style="display: flex; align-items: center; justify-content: space-between;">
+<div>
+  <p>Olá, me chamo <strong>Marcelo Bezerra</strong> 🌹</p>
+  <ul>
+    <li>Sou <strong>estagiário</strong> na Link do Brasil. Trabalho com desenvolvimento em <strong>C#</strong> e <strong>VB.Net</strong> 💻</li>
+    <li>Estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> e sou formado como <strong>técnico de informática</strong> ☀️</li>
+    <li>Sou um desenvolvedor que está sempre buscando aprimorar meus conhecimentos e aprender coisas novas neste maravilhoso mundo da tecnologia ⭐</li>
+  </ul>
+</div>
+
+<div>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
+       alt="ilustração de um computador"
+       style="width: 400px; border-radius: 10px; margin-left: 20px;">
+</div>
+</div>
+
+---
 
 ## Ferramentas e tecnologias
 <p>
@@ -17,14 +30,14 @@ e aprender coisas novas neste maravilhoso mundo da tecnologia ⭐
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=50; style="margin-right: 25px" title="Javascript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width=50; style="margin-right: 25px" title="Node.Js"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" width=50; style="margin-right: 25px" title="Nodemon"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width=50; style="margin-right: 25px" title="Express"/>
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width=50; style="margin-right: 25px" title="Express"/> -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width=50; style="margin-right: 25px" title="MongoDB"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" width=50; style="margin-right: 25px" title="Sequelize"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original-wordmark.svg" width=50; style="margin-right: 25px" title="Socket.io"/>
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original-wordmark.svg" width=50; style="margin-right: 25px" title="Socket.io"/> -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original-wordmark.svg" width=50; style="margin-right: 25px" title="ESLint"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width=50; style="margin-right: 25px" title="SQL" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width=50; style="margin-right: 25px" title="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width=50; style="margin-right: 25px" title="SQL Server"/>
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width=50; style="margin-right: 25px" title="SQL Server"/> -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width=50; style="margin-right: 25px" title="sqlite"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width=50; style="margin-right: 25px" title="C#"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width=50; style="margin-right: 25px" title="Git" />
@@ -37,6 +50,8 @@ e aprender coisas novas neste maravilhoso mundo da tecnologia ⭐
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width=50; style="margin-right: 25px" title="Visual Studio"/>          
 </p>
 
+---
+
 ## Contato
 
 <div> 
@@ -44,7 +59,8 @@ e aprender coisas novas neste maravilhoso mundo da tecnologia ⭐
 <a href="mailto:mdbezerra16@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/marcelo-bezerra-14274a314/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-<br>
+
+---
 
 ## Estatísticas
 <div>
