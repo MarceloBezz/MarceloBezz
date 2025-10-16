@@ -11,11 +11,11 @@
   </ul>
 </div>
 
-<div>
+<!-- <div>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
        alt="ilustração de um computador"
        style="width: 400px; border-radius: 10px; margin-left: 20px;">
-</div>
+</div> -->
 </div>
 
 ---
