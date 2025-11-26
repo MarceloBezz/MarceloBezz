@@ -27,6 +27,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width=50; style="margin-right: 25px" title="Selenium"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" width=50; style="margin-right: 25px" title="Hibernate" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg" width=50; style="margin-right: 25px" title="OAuth" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" width=50; style="margin-right: 25px" title="Apache Kafka" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width=50; style="margin-right: 25px" title="RabbitMQ" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=50; style="margin-right: 25px" title="Javascript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width=50; style="margin-right: 25px" title="Node.Js"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" width=50; style="margin-right: 25px" title="Nodemon"/>
