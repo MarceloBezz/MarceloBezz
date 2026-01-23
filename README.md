@@ -46,11 +46,7 @@ Olá, me chamo Marcelo Bezerra 🌹<br><br>Sou estagiário na Link do Brasil. Tr
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MarceloBezz&theme=prussian&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MarceloBezz&theme=prussian&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloBezz&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<a href="https://github.com/MarceloBezz">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloBezz&layout=compact&langs_count=7&theme=dracula" width=300/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloBezz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width=400/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
