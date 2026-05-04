@@ -50,6 +50,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=MarceloBezz&theme=noctis_minimus&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloBezz&theme=noctis_minimus&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![Snake animation](https://raw.githubusercontent.com/MarceloBezz/MarceloBezz/output/github-contribution-grid-snake.svg)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
