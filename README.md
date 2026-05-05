@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🌹 Olá, me chamo Marcelo Bezerra<br><br>💻 Sou estagiário na Link do Brasil. Trabalho com desenvolvimento em C# e VB.Net<br>☀️ Estou cursando Análise e Desenvolvimento de Sistemas e sou formado como técnico de informática <br>⭐ Sou um desenvolvedor que está sempre buscando aprimorar meus conhecimentos e aprender coisas novas neste maravilhoso mundo da tecnologia
+🌹 Olá, me chamo Marcelo Bezerra<br><br>💻 Sou Programador Júnior na Link do Brasil. Trabalho com desenvolvimento em C# e VB.Net<br>☀️ Estou cursando Análise e Desenvolvimento de Sistemas e sou formado como técnico de informática <br>⭐ Sou um desenvolvedor que está sempre buscando aprimorar meus conhecimentos e aprender coisas novas neste maravilhoso mundo da tecnologia
 
 # 💻 Tech Stack:
 
