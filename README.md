@@ -38,6 +38,7 @@
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
@@ -48,8 +49,9 @@
 <a href="https://www.linkedin.com/in/marcelo-bezerra-14274a314/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MarceloBezz&theme=noctis_minimus&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloBezz&theme=noctis_minimus&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://streak-stats.demolab.com/?user=MarceloBezz&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=MarceloBezz&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ![Snake animation](https://raw.githubusercontent.com/MarceloBezz/MarceloBezz/output/github-contribution-grid-snake.svg)
 
